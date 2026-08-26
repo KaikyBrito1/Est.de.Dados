@@ -6,7 +6,7 @@ Pelo CLion:
 
 Abra a pasta do projeto no CLion.
 
-Abra o arquivo .cpp desejado (localizado na pasta src/main/cpp/...).
+Abra o arquivo .cpp desejado (localizado na pasta src)
 
 Clique no botão de Play ▶️ (no canto superior direito) para compilar e executar.
 
